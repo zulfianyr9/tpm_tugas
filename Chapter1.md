@@ -397,4 +397,15 @@ manuals rarely depart far from the organization of hard-copy
 manuals, merely adding better searching facilities and sometimes
 some animation.
 
-hhe
+One of the things that was needed before film could acquire its
+distinct character as a medium was an appreciation of the way the
+movie camera and film could be used to create new sorts of images,
+by framing, movement, editing and special effects. In multimedia,
+part of what is presently missing is a real understanding of how
+we can take advantage of the fact that digital multimedia is data,
+to integrate the presentation of multimedia with computation. For
+the moment, we are largely confined to controlling the presentation
+interactively, and to moving the data across networks.
+
+# **Multimedia Production**
+
