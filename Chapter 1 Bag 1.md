@@ -124,6 +124,17 @@ are presented and combined, and can do so in response to input from a computer u
 interactive, in a way that, for example, a TV news bulletin is not,
 and that goes far beyond the simple control afforded by a VCR.
 
+Lalu, apa yang membedakan jika bukan kombinasi media?
+multimedia digital dari bentuk media gabungan sebelumnya? Dia
+fakta bahwa bit yang mewakili teks, suara, gambar, dan sebagainya
+dapat diperlakukan sebagai data oleh program komputer. Potensi penuh
+fakta ini belum sepenuhnya dieksplorasi, tetapi satu sisinya
+langsung membedakan multimedia digital dari pendahulunya.
+Sebuah program dapat mengontrol urutan berbagai komponen
+disajikan dan digabungkan, dan dapat melakukannya sebagai respons terhadap input dari pengguna komputer. Dengan kata lain, multimedia digital dapat
+interaktif, dengan cara, misalnya, buletin berita TV tidak,
+dan itu jauh melampaui kontrol sederhana yang diberikan oleh VCR.
+
 The digital multimedia version of the story we began this book with
 could open with a picture depicting a dark and stormy night. By
 clicking on an icon on the screen, the user could cause the scene to
@@ -143,6 +154,25 @@ on particular aspects, or a history of its telling in different media.
 There might be an opportunity for the user to take an active role,
 change the story, add new elements or recombine the existing ones.
 
+Versi multimedia digital dari cerita kami memulai buku ini dengan
+bisa dibuka dengan gambar yang menggambarkan malam yang gelap dan penuh badai. Oleh
+mengklik ikon di layar, pengguna dapat menyebabkan adegan menjadi
+bermain sebagai klip video, atau menambahkan efek suara, sesuai pilihan mereka.
+Mungkin dengan mengklik area yang berbeda dari pemandangan, detailnya bisa
+terungkap, atau adegan baru dapat diperkenalkan — yang berbeda untuk
+setiap bagian dari adegan pertama, memungkinkan kisah pengkhianatan yang kusut dan
+penebusan yang dimulai pada malam badai yang gelap itu akan terungkap lebih banyak lagi
+dari satu cara, diceritakan melalui mata karakter yang berbeda. Pengguna
+yang pendengarannya buruk dapat memilih untuk memiliki transkripsi apa pun
+dialog ditampilkan untuk mereka, sementara pengguna dengan gangguan penglihatan bisa
+memiliki deskripsi tentang apa yang terjadi 'baca' kepada mereka oleh mereka
+komputer. Opsi antarmuka yang berbeda mungkin ditawarkan untuk pengguna
+dengan selera dan kebutuhan yang berbeda. Jika ceritanya menarik kritik
+perhatian, dimungkinkan untuk memunculkan komentar-komentar terpelajar
+pada aspek-aspek tertentu, atau sejarah penceritaannya di berbagai media.
+Mungkin ada kesempatan bagi pengguna untuk mengambil peran aktif,
+ubah cerita, tambahkan elemen baru, atau gabungkan kembali elemen yang sudah ada.
+
 Suppose, though, that this is not just a story — that some crime
 was committed on a real dark and stormy night, and that somebody
 had subsequently been arrested and charged with an offence. By
@@ -157,6 +187,20 @@ various hypotheses suggested by the lawyers in the case. Forensic
 multimedia of this sort is already being used in courts in the United
 States.
 
+Namun, anggaplah ini bukan hanya sebuah cerita — bahwa beberapa kejahatan
+dilakukan pada malam yang benar-benar gelap dan penuh badai, dan seseorang itu
+kemudian ditangkap dan didakwa melakukan pelanggaran. Oleh
+mengumpulkan bukti dari saksi, dan fakta tentang lokasi,
+peristiwa malam itu dapat direkonstruksi dan disajikan, seperti
+cerita kami, sebagai campuran animasi, grafik, suara dan video,
+dengan anotasi tekstual. Anggota juri kemudian dapat memeriksa
+acara dari sudut yang berbeda, verifikasi bahwa itu mungkin untuk dilihat
+sesuatu pada jarak tertentu, mungkin memperhitungkan bagian-bagian dari
+rekonstruksi berdasarkan keterangan saksi tertentu, atau try out
+berbagai hipotesis yang diajukan oleh para pengacara dalam kasus tersebut. Forensik
+multimedia semacam ini sudah digunakan di pengadilan di Amerika Serikat
+Serikat.
+
 Digital multimedia may be used for many things besides stories and
 forensic reconstructions. The most prominent and economically
 significant uses of multimedia at present are in the fields of
@@ -166,6 +210,16 @@ found both in adventure games, such as Starship Titanic and action
 games, such as Doom and its bloody offspring. At the opposite extreme are the multimedia reference works, such as the Cinemania
 cinema encyclopedia, or the digital versions of the Encyclopedia
 Britannica.
+
+Multimedia digital dapat digunakan untuk banyak hal selain cerita dan
+rekonstruksi forensik. Yang paling menonjol dan ekonomis
+penggunaan signifikan dari multimedia saat ini adalah di bidang
+hiburan dan pendidikan. Pada satu ekstrim, kombinasi
+suara, animasi, video dan teks dengan interaktivitas umumnya
+ditemukan baik di game petualangan, seperti Starship Titanic dan aksi
+game, seperti Doom dan keturunannya yang berdarah. Pada ekstrem yang berlawanan adalah karya referensi multimedia, seperti Cinemania
+ensiklopedia bioskop, atau versi digital dari Ensiklopedia
+Britannia.
 
 Multimedia is also being used educationally in schools, and for
 extra-curricular and pre-school learning, where multimedia teaching
@@ -184,6 +238,23 @@ own schools. Children themselves can also make multimedia, in the
 form of project reports, or as an end in itself, as an electronic class
 book or newsletter.
 
+Multimedia juga digunakan untuk pendidikan di sekolah, dan untuk
+pembelajaran ekstra kurikuler dan pra-sekolah, di mana pengajaran multimedia
+materi dapat digunakan untuk menyajikan informasi dengan cara yang lebih langsung
+daripada buku dan pelajaran tradisional. Misalnya, klip film dan
+rekaman asli siaran radio dapat diintegrasikan dengan a
+catatan tekstual tentang peristiwa yang mengarah ke Perang Dunia Kedua
+dalam pelajaran sejarah modern. Eksperimen sains virtual bisa menjadi
+dibangun menggunakan teknik multimedia, untuk memungkinkan siswa untuk bekerja
+dengan simulasi peralatan yang tidak tersedia bagi mereka. di keduanya
+kasus ini, fitur interaktif memungkinkan siswa untuk bekerja sendiri
+kecepatan, atau untuk mengejar aspek-aspek khusus dari suatu proyek sesuai dengan
+kepentingan tertentu. Bahan ajar multimedia dapat dibeli di
+sebagai judul CD-ROM lengkap, atau dapat dibuat oleh guru di
+sekolah sendiri. Anak-anak sendiri juga bisa membuat multimedia, di
+bentuk laporan proyek, atau sebagai tujuan itu sendiri, sebagai kelas elektronik
+buku atau buletin.
+
 The distinction between education and entertainment is not a clear
 one; several succesful multimedia CD-ROMs use elements of games
 for an educational purpose. For example, The Logical Journey of
@@ -194,6 +265,17 @@ of titles available for teaching literacy and basic mathematics. These
 are aimed both at schools and at parents, for use in the home. (As
 a side-effect, the use of such materials also teaches computer skills
 from an early age.)
+
+Perbedaan antara pendidikan dan hiburan tidak jelas
+satu; beberapa CD-ROM multimedia yang sukses menggunakan elemen permainan
+untuk tujuan pendidikan. Misalnya, Perjalanan Logis dari
+Zoombinis mengembangkan keterampilan pemecahan masalah anak-anak melalui a
+serangkaian teka-teki, disusun dalam bentuk permainan. Pendekatan ini untuk
+pembelajaran tampaknya populer untuk anak-anak yang sangat muda, dengan jangkauan
+judul yang tersedia untuk mengajar literasi dan matematika dasar. Ini
+ditujukan untuk sekolah dan orang tua, untuk digunakan di rumah. (Sebagai
+efek sampingnya, penggunaan materi semacam itu juga mengajarkan keterampilan komputer
+sejak usia dini.)
 
 In contrast to the entertainment and education sectors, where most
 multimedia is professionally produced and marketed, much of the
@@ -208,6 +290,19 @@ promotions — for example, computers on sale in showrooms often
 run multimedia presentations describing their capabilities, and Web
 pages often function as sales brochures.
 
+Berbeda dengan sektor hiburan dan pendidikan, di mana sebagian besar
+multimedia diproduksi dan dipasarkan secara profesional, sebagian besar
+bahan yang digunakan dalam bisnis diproduksi untuk perusahaan tertentu, seringkali
+di rumah. Sebagai kelanjutan dari penggunaan multimedia secara formal
+pendidikan, materi multimedia digunakan untuk pelatihan. Seperti halnya
+eksperimen sains virtual di sekolah, multimedia dapat digunakan untuk
+menghasilkan simulasi interaktif dari peralatan dan prosedur, dalam
+kasus di mana akan mahal atau berbahaya untuk menggunakan yang asli
+untuk latihan. Multimedia juga digunakan dalam presentasi penjualan dan
+promosi — misalnya, komputer sering dijual di ruang pamer
+menjalankan presentasi multimedia yang menjelaskan kemampuannya, dan Web
+halaman sering berfungsi sebagai brosur penjualan.
+
 Some professions and business areas lend themselves especially
 well to multimedia. Graphic designers produce interactive presentations
 of their work as a supplement to, or even as a substitute
@@ -221,6 +316,20 @@ to augment the text and diagrams of conventional manuals with
 animations, video clips, and sound. Many programs now come with
 a multimedia product tour, demonstrating their best features, and
 interactive tutorials, which guide novice users through simple tasks.
+
+Beberapa profesi dan bidang bisnis sangat cocok untuk diri mereka sendiri
+baik untuk multimedia. Desainer grafis menghasilkan presentasi interaktif
+pekerjaan mereka sebagai pelengkap, atau bahkan sebagai pengganti
+untuk, portofolio konvensional. Portofolio elektronik dapat berupa
+murah digandakan pada CD-ROM dan dikirim ke klien potensial,
+atau diposting di situs Web sebagai pameran virtual. Di bungkus susut
+bisnis perangkat lunak, manual kertas telah secara bertahap
+memberi jalan kepada dokumentasi elektronik selama beberapa tahun. Gerakan
+dari hard copy ke format digital telah memberikan kesempatan
+untuk menambah teks dan diagram manual konvensional dengan
+animasi, klip video, dan suara. Banyak program sekarang hadir dengan
+tur produk multimedia, mendemonstrasikan fitur terbaik mereka, dan
+tutorial interaktif, yang memandu pengguna pemula melalui tugas-tugas sederhana.
 
 One area in which computation plays a more active part is
 visualization, in which graphics and animation are used as a means
@@ -243,6 +352,27 @@ examples show, visualization is widely used by scientists; it is also
 used in business, where the systems being tracked or simulated are
 financial, and the output is correspondingly more abstract.
 
+Satu area di mana komputasi memainkan peran yang lebih aktif adalah
+visualisasi, di mana grafik dan animasi digunakan sebagai sarana
+untuk menyajikan data yang kompleks. Contoh visualisasi yang dangkal
+termasuk diagram lingkaran dan diagram batang yang dihasilkan dari spreadsheet
+data: bentuk grafiknya merangkum data dengan cara yang
+membuat pengakuan tren dan perbandingan antara besaran
+mungkin secara sekilas. Data yang lebih kompleks daripada jenis yang biasanya disimpan
+dalam spreadsheet menuntut visualisasi yang lebih kompleks untuk disediakan
+tingkat pemahaman yang sama. Tiga dimensi dan waktu bervariasi
+presentasi, memanfaatkan warna palsu untuk membawa ekstra
+informasi, sering disukai. Visualisasi yang begitu rumit
+sering dihasilkan dari simulasi dinamika kompleks
+sistem: misalnya, program yang mensimulasikan atmosfer
+dinamika dapat menghasilkan film selang waktu kehamilan a
+badai tropis; sebuah program yang mensimulasikan reaksi kimia organik
+dapat menghasilkan model tiga dimensi dari struktur
+molekul yang terlibat, menunjukkan perubahan yang mereka alami. Seperti ini
+contoh menunjukkan, visualisasi banyak digunakan oleh para ilmuwan; itu juga
+digunakan dalam bisnis, di mana sistem yang dilacak atau disimulasikan
+finansial, dan hasilnya juga lebih abstrak.
+
 The established entertainment industry, while still delivering an
 essentially linear and non-interactive product, now makes extensive
 use of digital multimedia technology in the production of everything
@@ -253,7 +383,18 @@ CD-ROMs for mainstream movies, is rapidly expanding. At the
 same time, a rapidly increasing number of festivals, conferences and other international events are providing showcases for "new media"
 at all levels from the artistic avant garde to the purely commercial.
 
+Industri hiburan yang mapan, sambil tetap memberikan
+produk dasarnya linier dan non-interaktif, sekarang membuat ekstensif
+penggunaan teknologi multimedia digital dalam produksi segalanya
+dari film blockbuster hingga program berkebun di TV. Itu
+penggunaan koneksi dengan materi yang dikirimkan secara digital, seperti tautan
+antara pemrograman dan situs Web pendukung, atau yang menyertai
+CD-ROM untuk film mainstream, berkembang pesat. Pada
+pada saat yang sama, jumlah festival, konferensi, dan acara internasional lainnya yang meningkat pesat menyediakan pameran untuk "media baru"
+di semua tingkatan dari avant garde artistik hingga komersial murni.
+
 # **Delivery of Multimedia**
+# **Pengiriman Multimedia**
 
 The applications we have mentioned so far are all basically concerned
 with presenting material, using a combination of media,
@@ -261,6 +402,11 @@ in an interactive way. Some means of delivery is required, to get
 this material from its producer to its consumers. It is useful to
 distinguish between online and offline delivery.
 
+Aplikasi yang telah kami sebutkan sejauh ini semuanya pada dasarnya terkait
+dengan penyajian materi, menggunakan kombinasi media,
+secara interaktif. Beberapa cara pengiriman diperlukan, untuk mendapatkan
+bahan ini dari produsen ke konsumennya. Hal ini berguna untuk
+membedakan antara pengiriman online dan offline.
 
 Online delivery uses a network to send information from one
 computer, often a server machine providing centralized storage of
@@ -270,10 +416,23 @@ a single organization, but more often it will be the Internet. In
 particular, the World Wide Web has established itself as a popular
 means of delivering multimedia online.
 
+Pengiriman online menggunakan jaringan untuk mengirim informasi dari satu
+komputer, seringkali merupakan mesin server yang menyediakan penyimpanan terpusat
+data besar, ke yang lain, biasanya komputer pribadi di komputer seseorang
+meja. Jaringan yang dimaksud mungkin merupakan jaringan area lokal yang melayani
+satu organisasi, tetapi yang lebih sering adalah Internet. Di
+khususnya, World Wide Web telah memantapkan dirinya sebagai yang populer
+sarana penyampaian multimedia secara online.
+
         The World Wide Web has achieved such supremacy as a means of
         accessing data over the Internet that in popular perception the Web
         and the net are sometimes seen as synonymous. This is not the case,
         as we will explain in Chapter 2, and in more detail in Chapter 15.
+
+        World Wide Web telah mencapai supremasi seperti itu sebagai sarana untuk
+        mengakses data melalui Internet yang dalam persepsi populer Web
+        dan jaring terkadang dianggap sinonim. Ini bukan kasusnya,
+        seperti yang akan kami jelaskan di Bab 2, dan lebih detail di Bab 15.
 
 Where multimedia is delivered offline, some removable storage
 medium must be used. The widespread deployment of CD-ROM
@@ -290,6 +449,21 @@ multimedia can be played directly from a CD-ROM, although smooth
 playback of full-screen video from CD-ROM is still impossible
 without additional hardware support.
 
+Di mana multimedia dikirimkan secara offline, beberapa penyimpanan yang dapat dilepas
+media harus digunakan. Penyebaran CD-ROM secara luas
+drive di komputer pribadi pada pertengahan 1990-an, sampai batas tertentu,
+bertanggung jawab atas lonjakan minat multimedia pada waktu itu.
+Ini karena, untuk pertama kalinya, tersedia bentuk
+penyimpanan dengan kapasitas yang memadai (sekitar 650 Mbytes, dibandingkan
+hingga 1,44 Mbytes floppy disk) untuk mengakomodasi
+file karakteristik data multimedia, sementara masih relatif
+murah untuk digandakan. Kecepatan transfer data awal CD-ROM
+drive terlalu lambat untuk mendukung pemutaran video dan suara, tetapi
+model yang lebih baru telah meningkatkan kecepatan, ke titik di mana
+multimedia dapat diputar langsung dari CD-ROM, meskipun lancar
+pemutaran video layar penuh dari CD-ROM masih tidak mungkin
+tanpa dukungan perangkat keras tambahan.
+
 While online delivery is widely seen as the future for multimedia,
 the low bandwidth available for most domestic connections to the
 Internet means that, especially for large and elaborate work, offline delivery on CD-ROM remains popular. There is an increasing trend
@@ -297,6 +471,14 @@ towards a combination of offline and online delivery, with CDROMs
 being used to hold a fixed collection of data, augmented with
 links to Web sites, where updates and supporting information are
 available (sometimes for a supplementary fee).
+
+Sementara pengiriman online secara luas dilihat sebagai masa depan untuk multimedia,
+bandwidth rendah yang tersedia untuk sebagian besar koneksi domestik ke
+Internet berarti bahwa, terutama untuk pekerjaan besar dan rumit, pengiriman offline pada CD-ROM tetap populer. Ada tren yang meningkat
+menuju kombinasi pengiriman offline dan online, dengan CDROM
+digunakan untuk menyimpan koleksi data yang tetap, ditambah dengan
+link ke situs Web, di mana pembaruan dan informasi pendukung berada
+tersedia (terkadang dengan biaya tambahan).
 
 In 1995, an industry consortium announced the specification for a
 successor to CD-ROM, using the same size and shape platters, called
@@ -318,6 +500,26 @@ seems likely that they will become standard peripherals, and that
 DVD will be used to deliver multimedia, especially high quality
 video.
 
+Pada tahun 1995, sebuah konsorsium industri mengumumkan spesifikasi untuk a
+pengganti CD-ROM, menggunakan piringan ukuran dan bentuk yang sama, yang disebut
+DVD. Awalnya, ini adalah singkatan dari Digital Video Disk, karena formatnya
+dimaksudkan sebagai pengganti kaset VHS sebagai distribusi
+media untuk video, karena metode penyimpanan video analog mulai
+digantikan dengan metode digital. Segera dipahami bahwa
+DVD dapat digunakan dengan baik untuk data digital apa pun, sama seperti
+audio Compact Disc telah diadaptasi sebagai CD-ROM. Demikian,
+namanya diubah, agak putus asa, menjadi Digital Versatile
+Disk, sehingga menjaga singkatan DVD. DVD menawarkan jauh lebih tinggi
+kapasitas penyimpanan (hingga 17 Gbyte pada disk dua sisi), dengan
+kecepatan transfer yang sama dengan drive CD-ROM modern (12x dan lebih tinggi).
+Meskipun antusiasme media yang cukup besar untuk DVD, itu belum
+diambil secepat yang diperkirakan semula, tetapi selama tahun 1999,
+peningkatan jumlah komputer pribadi yang dikirim dengan
+DVD drive dipasang. Karena drive ini juga dapat membaca CD-ROM,
+sepertinya mereka akan menjadi periferal standar, dan itu
+DVD akan digunakan untuk menyajikan multimedia, terutama kualitas tinggi
+video.
+
 Online delivery, however, offers possibilities which are not available
 offline. In particular, it enables the delivery of (almost) live multimedia
 content, which in turn makes possible novel applications such
@@ -326,86 +528,10 @@ multimedia is delivered online, the delivery need not be passive, in
 the way that it is from CD-ROM: things can happen at the delivering
 end; for example, a database query can be executed.
 
-# **Historical Context**
-
-Compared with established forms such as film or the novel,
-multimedia is still in its earliest days. The CD-ROM specification
-was published in 1985, with drives appearing on desktop machines
-from about 1989; the World Wide Web became publicly available
-outside CERN at the start of 1992, in the form of a line-based browser giving access to a handful of servers; by January 1997,
-when the HTML 3.2 specification was adopted as a World Wide Web
-Consortium Recommendation, audio and video were only supported
-in Web pages through the use of proprietary extensions. We have
-become so accustomed to the high speed of technological change in
-computing that multimedia is already seen as an established feature
-of the computing landscape. But, on the time-scale of cultural
-change, it has barely arrived.
-
-The history of film and animation, for example, demonstrates that it
-takes time — much longer than digital multimedia has existed — for
-conventions about content and consumption to become established.
-The very first films exhibited to the public, by the Lumiere brothers
-at the Grand Cafe on the Boulevard des Capucines, in Paris in 1895,
-showed such subjects as workers going home from a factory, and
-a train arriving at a station. To be able to reproduce movement
-was enough, without the farrago of plot, character, or message
-we normally associate with films. The early trick films of Georges
-Melies were shown as part of his magic show, in the same way as the
-magic lantern projections he used to create illusions. In a similar
-vein, Winsor McCay's Gertie the Dinosaur, one of the first short
-animations made in America (in 1909), was used as an integral part
-of his vaudeville act. While Gertie did tricks, McCay stood in front
-of the screen on stage and talked to her, telling her what to do, and
-scolding her when she got it wrong1, in response to which Gertie
-started to cry; finally McCay appeared to walk into the frame and
-ride off on the dinosaur's back.
-
-At the same time, films, including narrative and animation, were
-already being shown, particularly in Europe, as entertainments in
-their own right, purely to be watched on a screen. The diversity
-of early ways of using film shows that there was originally no
-consensus about a 'right' way to present a film. Later on, anything
-other than a cinema screening would be seen as eccentric. Even
-films that attempted to use the medium in original ways would
-mainly do so within the cinema context, and a film shown in other
-ways, for example projected onto the floor of a gallery, would be
-re-defined — for example, as an 'installation'.
-
-Another notable feature of early cinema is the way in which
-established forms were translated into the new medium. In
-particular, the newsreels shown around the time of the First World
-War were based on the same principles as a newspaper, even to the
-extent of including an animated cartoon corresponding to a comic strip. Characters were transported from the comic strips to film,
-and the animators who brought them to life were often (but not
-always) the artists who had drawn the strips. Perhaps more to
-the point, one of the most succesful studios producing newsreels
-and animations was the International Film Service, owned by the
-newspaper proprietor William Randolph Hearst — who also owned
-the syndication rights to many popular comic strips of the period.
-
-Remember that the time we are now describing was twenty years
-after the invention of cinema, yet we still find film looking to earlier
-media for its forms and content. In a similar way, multimedia still
-adopts the format of earlier media; the most obvious example is the
-multimedia encyclopedia, which has the same form — a series of
-short articles, accessible through one or more indexes — as its paper
-equivalent, and is often published by the same organization. Other
-reference works also follow the form of reference books, sometimes,
-as in the case of some of Dorling-Kindersley's CD-ROMs, following
-the distinctive house style of their originals. Electronic software
-manuals rarely depart far from the organization of hard-copy
-manuals, merely adding better searching facilities and sometimes
-some animation.
-
-One of the things that was needed before film could acquire its
-distinct character as a medium was an appreciation of the way the
-movie camera and film could be used to create new sorts of images,
-by framing, movement, editing and special effects. In multimedia,
-part of what is presently missing is a real understanding of how
-we can take advantage of the fact that digital multimedia is data,
-to integrate the presentation of multimedia with computation. For
-the moment, we are largely confined to controlling the presentation
-interactively, and to moving the data across networks.
-
-# **Multimedia Production**
-
+Pengiriman online, bagaimanapun, menawarkan kemungkinan yang tidak tersedia
+offline. Secara khusus, ini memungkinkan pengiriman (hampir) multimedia langsung
+konten, yang pada gilirannya memungkinkan aplikasi baru seperti
+sebagai konferensi video dan siaran multimedia. Umumnya, ketika
+multimedia disampaikan secara online, penyampaiannya tidak perlu pasif,
+cara itu dari CD-ROM: hal-hal dapat terjadi pada saat pengiriman
+akhir; misalnya, kueri basis data dapat dieksekusi.
